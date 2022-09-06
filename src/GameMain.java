@@ -27,8 +27,6 @@ public class GameMain extends JPanel implements MouseListener{
 	public static final int SYMBOL_SIZE = CELL_SIZE - CELL_PADDING * 2;    
 	public static final int SYMBOL_STROKE_WIDTH = 8;
 
-//	private Board board;
-
 	private static int currentState;
 	
 	// the current player
